@@ -1,3 +1,4 @@
 # masasort
 Semi-auto spike sorting with SVM
-test.
+
+Using svmlib, spuce, SPUC, DSP, boost, QtCharts
